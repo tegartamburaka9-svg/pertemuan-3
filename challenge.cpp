@@ -22,5 +22,6 @@ void output() {
 }
 int main() {
  output();
- 
+    cout << "Hasil dari penjumlahan : " << jumlah(phi, r) << endl;
+}
 
