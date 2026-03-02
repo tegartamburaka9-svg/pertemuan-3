@@ -14,4 +14,7 @@ float luasLingkaran(float r) {
 }
 
 float jumlah(float phi, float r) {
+    return phi * r * r;
+
+}
 
