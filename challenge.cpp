@@ -10,3 +10,6 @@ float phi = 3.14159;
 }
 
 float luasLingkaran(float r) {
+    return phi * r * r;
+}
+
