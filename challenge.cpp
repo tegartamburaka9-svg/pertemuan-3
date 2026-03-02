@@ -17,4 +17,5 @@ float jumlah(float phi, float r) {
     return phi * r * r;
 
 }
+void output() {
 
