@@ -21,5 +21,6 @@ void output() {
     cout << "Hasilnya : " << luasLingkaran(r) << endl;
 }
 int main() {
-
+ output();
+ 
 
