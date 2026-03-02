@@ -20,5 +20,6 @@ float jumlah(float phi, float r) {
 void output() {
     cout << "Hasilnya : " << luasLingkaran(r) << endl;
 }
+int main() {
 
 
