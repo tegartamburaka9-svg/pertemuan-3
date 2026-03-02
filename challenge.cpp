@@ -8,3 +8,5 @@ float phi = 3.14159;
     cout << "Masukkan luas: ";
     cin >> r; 
 }
+
+float luasLingkaran(float r) {
